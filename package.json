@@ -1,0 +1,15 @@
+{
+  "name": "pocbot",
+  "version": "1.0.0",
+  "description": "A bot for POCs",
+  "main": "app.js",
+  "dependencies": {
+    "zendesk-node-api": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Quimbaya",
+  "license": "ISC"
+}
